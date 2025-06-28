@@ -1,4 +1,8 @@
-tensorflow
+tensorflow==2.12.0
 opencv-python
+imutils
+matplotlib
 numpy
+Pillow
+scikit-learn
 streamlit
